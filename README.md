@@ -1,1 +1,1 @@
-Hi! I'm Martim, a Computer Science Engineering student from Lisbon, Portugal.
+Hi! I'm Martim, a Web Developer from Lisbon, Portugal.
